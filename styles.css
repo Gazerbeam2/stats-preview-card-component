@@ -72,3 +72,17 @@ select {
     scroll-behavior: auto !important;
   }
 }
+
+body{
+  font-size: 15px;
+  background: hsl(233, 47%, 7%);
+  min-height:100vh;
+
+}
+
+main{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  min-height: 100vh;
+}
