@@ -76,13 +76,29 @@ select {
 body{
   font-size: 15px;
   background: hsl(233, 47%, 7%);
-  min-height:100vh;
-
 }
 
 main{
   display:flex;
   justify-content:center;
   align-items:center;
-  min-height: 100vh;
+}
+
+section{
+  background-color: hsl(244,38%,16%);
+}
+
+h1,p,span{
+  color:white;
+
+}
+
+h1,span{
+  font-family:'Inter', sans-serif;
+  font-size:2rem;
+
+}
+
+p{
+font-family: 'Lexend Deca', sans-serif;
 }
