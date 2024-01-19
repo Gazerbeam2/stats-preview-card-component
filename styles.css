@@ -82,11 +82,13 @@ main{
   display:flex;
   justify-content:center;
   align-items:center;
+
 }
 
 section{
   background-color: hsl(244,38%,16%);
 }
+
 
 h1,p,span{
   color:white;
